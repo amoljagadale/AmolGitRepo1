@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is B0F6-F81A
-
- Directory of C:\Users\Lenovo\Desktop\AmolGitProject
-
-09/03/2022  10:11 AM    <DIR>          .
-09/03/2022  10:11 AM    <DIR>          ..
-09/03/2022  10:11 AM               128 text1.txt
-               1 File(s)            128 bytes
-               2 Dir(s)  49,872,015,360 bytes free
+change 1 date 09/03/2022 10.23 am
